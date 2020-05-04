@@ -1,6 +1,6 @@
 # Virtual-Machine-Exercises
 
-~~# MAC-OS-Exercises~~
+~~# Mac-OS-Exercises~~
 
 ~~virtual machine practice.~~
 
