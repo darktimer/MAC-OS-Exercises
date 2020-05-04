@@ -62,6 +62,10 @@ hdiutil convert /Users/darktimer/ISO/tmp/Catalina.cdr.dmg -format UDTO -o /Users
 
 `2020-05-04 21:18:37`
 
+终于成功了，好卡....还是白苹果好哇。
+
+`2020-05-04 21:55:22`
+
 # Linux Exercises
 
 转战 Linux ，不玩 Mac 了。本质一样。项目就更名虚拟机联系吧，以后扩充方便管理。
