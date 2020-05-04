@@ -1,13 +1,22 @@
-# MAC-OS-Exercises
+# Virtual-Machine-Exercises
 
-virtual machine practice.
+~~# MAC-OS-Exercises~~
 
-**` Install macOS Catalina.app `**  from App Store.
+~~virtual machine practice.~~
 
-**`VMware® Workstation 15 Pro 15.5.2 build-15785246`**
+~~**` Install macOS Catalina.app `**  from App Store.~~
 
-`2020-04-29 20:48:31`
+~~**`VMware® Workstation 15 Pro 15.5.2 build-15785246`**~~
 
-mac 下载的 OS 安装包需要在 mac 环境下制作成镜像，硬盘安装镜像也好，U 盘镜像也好，在 win 环境下制作成镜像目前比较困难。再议，估计五一后了。
+~~`2020-04-29 20:48:31`~~
 
-`2020-04-30 23:04:50`
+~~mac 下载的 OS 安装包需要在 mac 环境下制作成镜像，硬盘安装镜像也好，U 盘镜像也好，在 win 环境下制作成镜像目前比较困难。再议，估计五一后了。~~
+
+~~`2020-04-30 23:04:50`~~
+
+# Linux Exercises
+
+转战 Linux ，不玩 Mac 了。本质一样。项目就更名虚拟机联系吧，以后扩充方便管理。
+
+`2020-05-04 18:15:03` 
+
