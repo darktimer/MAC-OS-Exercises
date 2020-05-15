@@ -78,4 +78,6 @@ hdiutil convert /Users/darktimer/ISO/tmp/Catalina.cdr.dmg -format UDTO -o /Users
 
 停滞了 N 天后，因为没有一本合适的入门书籍或者网站符合我的口味，Linux 和 macOS 都没怎么动，今天偶然从 良许Linux 公众号的推送上下载了 《Linux就该这样学》 这本电子书，初读感觉还行，准备接着开始看了。
 
+话说，看来，开源这个概念，搞 Linux 的好像是最为引以为豪的一个群体。
+
 ------
